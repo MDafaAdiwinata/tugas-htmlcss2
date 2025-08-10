@@ -9,3 +9,7 @@ Membuat tampilan website dengan beberapa section dan memperbagus menggunakan CSS
 5. Berikan gambar <br>
 
 **Buat halaman responsive agar terlihat baik di berbagai perangkat (deskrip, tablet, dan mobile) menggunakan media queries**
+
+**Demo Website**
+
+> [Kunjungi Website nya disini!](https://mdafaadiwinata.github.io/tugas-htmlcss2/)
